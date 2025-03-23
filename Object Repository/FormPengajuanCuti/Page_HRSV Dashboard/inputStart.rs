@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputStart</name>
+   <tag></tag>
+   <elementGuidId>d25d5f1f-1426-473d-af26-82dac8ad8a48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[value=&quot;Mar 23, 2025&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>720761bb-204f-47dd-99a8-d94e25e57a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Early</value>
+      <webElementGuid>9d32f2cf-b5b2-48a9-b70e-10abaa959641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Mar 23, 2025</value>
+      <webElementGuid>046eeb3e-f39b-40da-99fd-c393cfc4c950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-4 card-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row form-group my-2 mx-2&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/form[@class=&quot;calendarWrap&quot;]/div[1]/div[@class=&quot;rdrCalendarWrapper rdrDateRangeWrapper calendarElement&quot;]/div[@class=&quot;rdrDateDisplayWrapper&quot;]/div[@class=&quot;rdrDateDisplay&quot;]/span[@class=&quot;rdrDateInput rdrDateDisplayItem rdrDateDisplayItemActive&quot;]/input[1]</value>
+      <webElementGuid>52db9681-3ae1-4032-9cdc-94f2f3b669af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Mar 23, 2025']</value>
+      <webElementGuid>caf78405-af3c-4aee-b4c3-802b75701ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div/div/div/form/div/div/div/div/span/input</value>
+      <webElementGuid>616ccc7a-c3d6-4997-8516-586c02b84a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/input</value>
+      <webElementGuid>912f8224-6ab4-4690-be17-bb3656e124fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Early']</value>
+      <webElementGuid>89474299-7a4d-439e-8856-175efc4aa4ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

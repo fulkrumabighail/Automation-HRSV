@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TambahLogBook_Normal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>482e03fc-df01-4d8b-9e91-5ae39576f13d</testCaseGuid>
+</TestCaseEntity>

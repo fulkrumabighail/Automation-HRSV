@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NavBar</name>
+   <tag></tag>
+   <elementGuidId>f473a70b-0b54-4387-b384-6ebbc7a3e6b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>header.header-root.c-header.c-header-light.c-header-fixed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>677bf07c-fa63-4e2f-b388-eedc5075baa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-root c-header c-header-light c-header-fixed</value>
+      <webElementGuid>7a93f818-5ffe-4d5e-ae43-5b9eaa94bd28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aplikasi HR SV Jakarta 202300 Notifikasi Baru Admin telah mengkonfirmasi pengajuan lembur2 bulanAdmin telah mengkonfirmasi pengajuan lembur2 bulanTestAccountKaryawan1Sign Out</value>
+      <webElementGuid>44a6eab5-b607-4c4f-825b-f55feef95e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/header[@class=&quot;header-root c-header c-header-light c-header-fixed&quot;]</value>
+      <webElementGuid>80db3e32-dc43-4f5e-be2a-34bb02263e66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/header</value>
+      <webElementGuid>13a09aaf-6a68-41f9-b8fd-658b939c708d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Lembur'])[1]/following::header[1]</value>
+      <webElementGuid>b15d72bf-f880-44b7-8d35-622091c2cc0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Cuti'])[1]/following::header[1]</value>
+      <webElementGuid>7066a731-8764-426d-b8e1-b920e71e9854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>c1619e0a-7424-4e59-a574-980fd18b7f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'Aplikasi HR SV Jakarta 202300 Notifikasi Baru Admin telah mengkonfirmasi pengajuan lembur2 bulanAdmin telah mengkonfirmasi pengajuan lembur2 bulanTestAccountKaryawan1Sign Out' or . = 'Aplikasi HR SV Jakarta 202300 Notifikasi Baru Admin telah mengkonfirmasi pengajuan lembur2 bulanAdmin telah mengkonfirmasi pengajuan lembur2 bulanTestAccountKaryawan1Sign Out')]</value>
+      <webElementGuid>b494cb88-92f1-4ab0-b1ef-f69c8df23411</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

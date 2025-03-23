@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Slip Gaji</name>
+   <tag></tag>
+   <elementGuidId>6118574a-aea5-449d-9025-998a3f5ab68f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>134fa073-b74f-42c5-bfd5-8713ac1d8360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/slipgaji</value>
+      <webElementGuid>94ac1be8-0781-4c1d-be2e-e826417fdb06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-dropdown-item-2 overflow-hidden text-truncate</value>
+      <webElementGuid>ad782bc5-03bf-464d-bd35-5cf8ab39eecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Slip Gaji</value>
+      <webElementGuid>d8366ce9-2072-497a-b3cf-a15c5d967bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-sidebar c-sidebar-dark c-sidebar-show c-sidebar-fixed sidebar-root&quot;]/ul[@class=&quot;c-sidebar-nav h-100 ps&quot;]/li[@class=&quot;custom-sidebar-nav-item&quot;]/a[@class=&quot;custom-dropdown-item-2 overflow-hidden text-truncate&quot;]</value>
+      <webElementGuid>3cd6665d-2fc3-40aa-a85c-5835a11b9acc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/ul/li[2]/a</value>
+      <webElementGuid>885d31ff-fbdd-460a-b69f-e5b5b9d6a3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Slip Gaji')]</value>
+      <webElementGuid>7ac9dd10-ba3f-45db-8ca0-452341708515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logbook'])[1]/following::a[1]</value>
+      <webElementGuid>b4fb2d3e-0e73-49cc-9f0b-0dadd9ff40ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Stack Engineer'])[1]/following::a[2]</value>
+      <webElementGuid>10209f31-6c35-46e2-a672-2a75c3271b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuti dan Lembur'])[1]/preceding::a[1]</value>
+      <webElementGuid>407be957-c00e-4dee-95e6-4c96c3534628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Cuti'])[1]/preceding::a[2]</value>
+      <webElementGuid>4e1f792f-5502-413c-8cd7-8202363b326c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Slip Gaji']/parent::*</value>
+      <webElementGuid>af8b701e-ab9b-4ab3-acc2-68836b3dc5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/slipgaji')]</value>
+      <webElementGuid>a893d46c-eb89-4358-8a3d-f53b0f8e1f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>26fd1f61-983c-4b38-8407-aa378626e0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/slipgaji' and (text() = 'Slip Gaji' or . = 'Slip Gaji')]</value>
+      <webElementGuid>2188279b-4f00-4a8e-bc3b-2d63b2701682</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

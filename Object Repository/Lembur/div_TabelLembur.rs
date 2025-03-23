@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TabelLembur</name>
+   <tag></tag>
+   <elementGuidId>e6231905-b47c-4949-b701-656de5dc35cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d7b4056-f678-4185-ac4c-b652367e409c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>3b1be301-cff0-4043-b134-922ebc4507c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ActionTanggal LemburTotal JamJenis LemburKeteranganStatus02/25/20252Hari KerjaTesting ajaMenunggu Disetujui02/25/20252Hari KerjaTesting ajaMenunggu Disetujui02/02/20257Hari KerjaLiburanMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu DisetujuiShowing 7 from 380«‹1234…›»</value>
+      <webElementGuid>190e5dcc-f838-4030-9e68-d6cc629e3169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>8f468178-3a02-4266-be9f-d67a5a9cc883</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div[2]/div</value>
+      <webElementGuid>3ac4cbc0-8652-479a-94d5-913ad4ab451e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan Lembur'])[1]/following::div[2]</value>
+      <webElementGuid>60038586-ac66-4b8e-8647-225fa0083f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pengajuan Lembur'])[1]/following::div[4]</value>
+      <webElementGuid>6d434b49-2a60-468c-bc6d-28d8df348e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div</value>
+      <webElementGuid>0d6c850f-059e-4e65-acd1-6318c9d0fb15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ActionTanggal LemburTotal JamJenis LemburKeteranganStatus02/25/20252Hari KerjaTesting ajaMenunggu Disetujui02/25/20252Hari KerjaTesting ajaMenunggu Disetujui02/02/20257Hari KerjaLiburanMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu DisetujuiShowing 7 from 380«‹1234…›»' or . = 'ActionTanggal LemburTotal JamJenis LemburKeteranganStatus02/25/20252Hari KerjaTesting ajaMenunggu Disetujui02/25/20252Hari KerjaTesting ajaMenunggu Disetujui02/02/20257Hari KerjaLiburanMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu Disetujui02/23/20254Hari LiburTestingMenunggu DisetujuiShowing 7 from 380«‹1234…›»')]</value>
+      <webElementGuid>981ffeb5-1eae-4e18-b64a-bf54e21bc24b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

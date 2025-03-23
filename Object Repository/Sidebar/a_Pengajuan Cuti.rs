@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pengajuan Cuti</name>
+   <tag></tag>
+   <elementGuidId>f5e620eb-023b-4daf-8134-487886345491</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.custom-dropdown-item-2.d-block.overflow-hidden.text-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>86084f42-1995-41dd-970a-2acb7766065c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/cuti/pengajuan-cuti</value>
+      <webElementGuid>c5bb8159-570d-44b1-8f25-dea1efb796f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-dropdown-item-2 d-block overflow-hidden text-truncate</value>
+      <webElementGuid>31ada307-2da7-4fc6-be90-a69e0a254538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengajuan Cuti</value>
+      <webElementGuid>91466863-caa8-44f4-9643-fe23e0dca039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;sidebar-dropdown-menu&quot;]/div[1]/div[@class=&quot;custom-dropdown-menu h-100 ml-2 show card&quot;]/li[@class=&quot;custom-sidebar-nav-item&quot;]/a[@class=&quot;custom-dropdown-item-2 d-block overflow-hidden text-truncate&quot;]</value>
+      <webElementGuid>62f910c3-9f12-41ed-bf38-35dc08b53c02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/li/a</value>
+      <webElementGuid>01d2c5c7-82ad-40d6-bd95-0b1b2e139528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pengajuan Cuti')]</value>
+      <webElementGuid>bd41999c-1d44-4006-aa21-7b0f1b244f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuti dan Lembur'])[1]/following::a[1]</value>
+      <webElementGuid>0a4285ca-d552-4b94-ba9d-89504e632cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slip Gaji'])[1]/following::a[2]</value>
+      <webElementGuid>6d5d0ca3-529d-484d-bd04-600306720280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Lembur'])[1]/preceding::a[1]</value>
+      <webElementGuid>b495e7cb-0897-4e93-ab2e-9b0eb44d2455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi HR SV Jakarta 2023'])[1]/preceding::a[2]</value>
+      <webElementGuid>cd29fdf1-f9ec-495c-9a74-f0221f61fec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengajuan Cuti']/parent::*</value>
+      <webElementGuid>ac1f495d-4138-41e9-a84d-bbe1c605b83a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/cuti/pengajuan-cuti')]</value>
+      <webElementGuid>eb94feaf-f2ff-47f8-b7fe-f295fa735bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li/a</value>
+      <webElementGuid>25bed524-4b22-4e30-a2a0-700543e9cab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/cuti/pengajuan-cuti' and (text() = 'Pengajuan Cuti' or . = 'Pengajuan Cuti')]</value>
+      <webElementGuid>a295b49a-fa37-4b62-8979-cfa2c1fe38bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

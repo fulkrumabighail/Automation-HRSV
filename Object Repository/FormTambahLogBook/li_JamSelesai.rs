@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_JamSelesai</name>
+   <tag></tag>
+   <elementGuidId>b12d67e2-fb7d-4ba5-b170-3d69b8371233</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[4]/div/div/div/form/div/div[2]/div[3]/div[2]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/ul/li[69]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>81cdb835-1668-4b86-92a5-14fa8bb50f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker__time-list-item </value>
+      <webElementGuid>99d1df83-b85e-49af-83b4-a872192fee8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>73e049a7-d352-407f-b01c-b8b124c0fe01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5:00 PM</value>
+      <webElementGuid>f27114fd-cd9f-4e92-b236-a619a4fca92a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[4]/div[@class=&quot;modal overflow-auto fade show d-block&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/form[1]/div[@class=&quot;mb-4 card-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row form-group my-0 mx-2&quot;]/div[@class=&quot;col-8&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker react-datepicker--time-only&quot;]/div[@class=&quot;react-datepicker__time-container&quot;]/div[@class=&quot;react-datepicker__time&quot;]/div[@class=&quot;react-datepicker__time-box&quot;]/ul[@class=&quot;react-datepicker__time-list&quot;]/li[@class=&quot;react-datepicker__time-list-item&quot;]</value>
+      <webElementGuid>ba74ea43-5a08-41f9-b68e-a83058f67cad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[4]/div/div/div/form/div/div[2]/div[3]/div[2]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/ul/li[69]</value>
+      <webElementGuid>d2a11ed4-bf33-4870-9922-19bc55d94c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time'])[1]/following::li[69]</value>
+      <webElementGuid>8641d4a5-1d7b-4e42-a6d3-ba0454886260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jam Selesai'])[1]/following::li[69]</value>
+      <webElementGuid>27467423-0692-4bb4-bf20-f12f6c2b23d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mode Kerja'])[1]/preceding::li[28]</value>
+      <webElementGuid>94c0ddcd-990b-4297-8335-93125bdd2880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[1]/preceding::li[28]</value>
+      <webElementGuid>081fcf47-b6df-4ed0-8ad7-c7f3c2ff4bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5:00 PM']/parent::*</value>
+      <webElementGuid>5b19f289-0890-4e8a-8fd4-69d7972e3f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[69]</value>
+      <webElementGuid>8ac62c20-0e01-49a6-a92b-eee2ec21a70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '5:00 PM' or . = '5:00 PM')]</value>
+      <webElementGuid>4cb2d450-6b51-4778-b96d-8123c734639c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

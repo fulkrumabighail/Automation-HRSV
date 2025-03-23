@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tanggal</name>
+   <tag></tag>
+   <elementGuidId>b9227324-4fe2-4d84-a7db-5678aa380cb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '1' or . = '1')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.rdrDay.rdrDayWeekend.rdrDayEndOfWeek.rdrDayStartOfMonth.rdrDayHovered > span.rdrDayNumber</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cedd3a15-6bda-45f5-ae0c-4ee66353ed6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rdrDayNumber</value>
+      <webElementGuid>41046070-1a88-4e8f-83b3-c2fd27928c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ba40a47a-b75d-454f-850d-5136214a3e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-4 card-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row form-group my-2 mx-2&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/form[@class=&quot;calendarWrap&quot;]/div[1]/div[@class=&quot;rdrCalendarWrapper rdrDateRangeWrapper calendarElement&quot;]/div[@class=&quot;rdrMonths rdrMonthsHorizontal&quot;]/div[@class=&quot;rdrMonth&quot;]/div[@class=&quot;rdrDays&quot;]/button[@class=&quot;rdrDay rdrDayWeekend rdrDayEndOfWeek rdrDayStartOfMonth rdrDayHovered&quot;]/span[@class=&quot;rdrDayNumber&quot;]</value>
+      <webElementGuid>cd9cb0a3-4d04-4892-867e-5eda406739c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div/div/div/form/div/div/div[3]/div/div[3]/button[7]/span[2]</value>
+      <webElementGuid>3b62a7ff-f485-49ef-bb01-628c7aa5db6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[14]</value>
+      <webElementGuid>e6c8bb28-fa31-4519-adc0-af3702e71c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[15]</value>
+      <webElementGuid>c0ce2707-7adf-47d2-8234-157a4a58c9fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apr 2025'])[1]/preceding::span[72]</value>
+      <webElementGuid>fa6151fa-938c-4d89-b41f-106738e33762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[2]/preceding::span[72]</value>
+      <webElementGuid>3884d6ac-91bf-422a-8dc9-3e4bc24c80c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[7]/span[2]</value>
+      <webElementGuid>43ffe818-51b3-45ed-9112-233e07995315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>68f12f48-ae5a-4311-922c-01443e9a71f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

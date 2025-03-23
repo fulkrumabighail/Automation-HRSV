@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Month</name>
+   <tag></tag>
+   <elementGuidId>eb57becb-d06a-4078-97d7-007dd6209f2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div/div/div/form/div/div/div[2]/span/span/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3b554052-7635-4ced-ac1a-e6929d1fac9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</value>
+      <webElementGuid>895723f8-e305-470c-8ebc-27ea3f1cb854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-4 card-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row form-group my-2 mx-2&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/form[@class=&quot;calendarWrap&quot;]/div[1]/div[@class=&quot;rdrCalendarWrapper rdrDateRangeWrapper calendarElement&quot;]/div[@class=&quot;rdrMonthAndYearWrapper&quot;]/span[@class=&quot;rdrMonthAndYearPickers&quot;]/span[@class=&quot;rdrMonthPicker&quot;]/select[1]</value>
+      <webElementGuid>3465f08f-b15b-46aa-b155-6c0eed50ea9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div/div/div/form/div/div/div[2]/span/span/select</value>
+      <webElementGuid>1b9da1df-8ae9-4345-94ff-2deb29fb712f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Cuti'])[1]/following::select[1]</value>
+      <webElementGuid>7353dd1a-0300-4783-9a75-38377e9386e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Pengajuan Cuti'])[1]/following::select[1]</value>
+      <webElementGuid>87352c29-36e8-4023-9c20-e180af715b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar 2025'])[1]/preceding::select[2]</value>
+      <webElementGuid>b5c2e093-6f2f-4275-9edc-d78e517f9ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::select[2]</value>
+      <webElementGuid>cded52e6-399f-460d-b22a-5618850ccd1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0d43c951-4fbc-4bcc-92a6-94cc0c888cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember' or . = 'JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember')]</value>
+      <webElementGuid>7cc420f5-bc36-4a78-8b73-94c70812b222</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

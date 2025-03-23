@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Variation Test No input</description>
+   <name>TambahLogBook_Var1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55e724a6-9c0f-43c5-a488-775cc0f2a047</testCaseGuid>
+</TestCaseEntity>

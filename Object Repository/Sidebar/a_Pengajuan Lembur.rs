@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pengajuan Lembur</name>
+   <tag></tag>
+   <elementGuidId>a776a1f5-722a-4ec7-acfa-8cd506830ad6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>88ae74b8-012c-416a-bc48-fc547940d0bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/lembur/pengajuan-lembur</value>
+      <webElementGuid>5c38a5f4-6ee7-4012-8952-219f9bf2e4b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-dropdown-item-2 d-block overflow-hidden text-truncate</value>
+      <webElementGuid>7b6bc55c-c8a5-4d8a-8a29-32cdd97b1766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengajuan Lembur</value>
+      <webElementGuid>da002ae2-0030-4a52-927e-11be7aa65364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;sidebar-dropdown-menu&quot;]/div[1]/div[@class=&quot;custom-dropdown-menu h-100 ml-2 show card&quot;]/li[@class=&quot;custom-sidebar-nav-item&quot;]/a[@class=&quot;custom-dropdown-item-2 d-block overflow-hidden text-truncate&quot;]</value>
+      <webElementGuid>1113884e-bb6a-4a2a-af86-a05042e1cd6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/li[2]/a</value>
+      <webElementGuid>b5752def-85d4-4c41-b940-653a8b09e2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pengajuan Lembur')]</value>
+      <webElementGuid>81e11f61-5d5b-43a2-be44-7e61db47d311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Cuti'])[1]/following::a[1]</value>
+      <webElementGuid>7fc5aa84-fec4-4065-831f-562a0c95939f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuti dan Lembur'])[1]/following::a[2]</value>
+      <webElementGuid>50298239-2c77-4f24-bc73-d2dcdf0273d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi HR SV Jakarta 2023'])[1]/preceding::a[1]</value>
+      <webElementGuid>2414116f-3275-48a9-8115-4550cd8c3ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin telah mengkonfirmasi pengajuan lembur'])[1]/preceding::a[2]</value>
+      <webElementGuid>4d8434e5-d947-419d-9825-9bc0026b2c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengajuan Lembur']/parent::*</value>
+      <webElementGuid>8e9b18dd-1fa0-420e-8489-6b14915a267e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/lembur/pengajuan-lembur')]</value>
+      <webElementGuid>06f87c67-9f32-4683-ad3c-39b9e2cb57e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[2]/a</value>
+      <webElementGuid>5a2535a5-b945-4ca3-8b4a-abab947567e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/lembur/pengajuan-lembur' and (text() = 'Pengajuan Lembur' or . = 'Pengajuan Lembur')]</value>
+      <webElementGuid>b2035918-a46f-41df-8190-bd1df7971417</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

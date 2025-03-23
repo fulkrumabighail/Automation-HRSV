@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HapusLogBook_Normal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>289eebf8-e36a-420a-b79d-b7c499b0dfa5</testCaseGuid>
+</TestCaseEntity>

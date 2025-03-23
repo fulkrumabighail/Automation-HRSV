@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit_row</name>
+   <tag></tag>
+   <elementGuidId>f6aea354-0564-4189-bd21-e0ed46908130</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.px-1.py-0.btn > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>df7d5501-41b7-4951-845a-e2372ab521e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M1.64024 14.25C1.25793 14.25 0.930524 14.1139 0.658037 13.8418C0.386012 13.5701 0.25 13.2433 0.25 12.8614V3.1416C0.25 2.75974 0.386012 2.43274 0.658037 2.16058C0.930524 1.88889 1.25793 1.75304 1.64024 1.75304H7.84421L6.45396 3.1416H1.64024V12.8614H11.372V8.03623L12.7622 6.64769V12.8614C12.7622 13.2433 12.6262 13.5701 12.3542 13.8418C12.0817 14.1139 11.7543 14.25 11.372 14.25H1.64024ZM9.40823 2.15225L10.3988 3.12424L5.81098 7.70645V8.6958H6.78415L11.3893 4.09622L12.3799 5.06821L7.375 10.0843H4.42073V7.13368L9.40823 2.15225ZM12.3799 5.06821L9.40823 2.15225L11.146 0.416565C11.4241 0.138855 11.7573 0 12.1456 0C12.5335 0 12.8607 0.138855 13.1271 0.416565L14.1003 1.40591C14.3668 1.67205 14.5 1.99604 14.5 2.37789C14.5 2.75974 14.3668 3.08374 14.1003 3.34988L12.3799 5.06821Z</value>
+      <webElementGuid>66662e9c-8626-40a8-b868-e0a165f9b931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>url(#paint0_linear_1748_1450)</value>
+      <webElementGuid>e9e9146d-ea98-4c38-a164-daee0e8109cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;position-relative table-responsive&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[2]/button[@class=&quot;px-1 py-0 btn&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>eebc3370-fd7c-44e4-b8da-a380e56917d5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

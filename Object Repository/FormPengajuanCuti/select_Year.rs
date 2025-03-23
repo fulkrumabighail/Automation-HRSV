@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Year</name>
+   <tag></tag>
+   <elementGuidId>35771624-df3b-4068-9405-6fc5783d927f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.rdrYearPicker > select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div/div/div/form/div/div/div[2]/span/span[3]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5222d666-dd8e-4f39-9bb8-a01f68479170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2045204420432042204120402039203820372036203520342033203220312030202920282027202620252024202320222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925</value>
+      <webElementGuid>135dde25-cf25-45cb-8432-d3d7cd31607c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-4 card-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row form-group my-2 mx-2&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/form[@class=&quot;calendarWrap&quot;]/div[1]/div[@class=&quot;rdrCalendarWrapper rdrDateRangeWrapper calendarElement&quot;]/div[@class=&quot;rdrMonthAndYearWrapper&quot;]/span[@class=&quot;rdrMonthAndYearPickers&quot;]/span[@class=&quot;rdrYearPicker&quot;]/select[1]</value>
+      <webElementGuid>61f1fa3c-1e74-4ed3-a1dd-e7615a0ee316</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div/div/div/form/div/div/div[2]/span/span[3]/select</value>
+      <webElementGuid>83f994c4-b498-422e-92d8-c09d38779457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Cuti'])[1]/following::select[2]</value>
+      <webElementGuid>c1ef07c0-eef8-4f3f-bc88-317d693b4888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Pengajuan Cuti'])[1]/following::select[2]</value>
+      <webElementGuid>f795beb6-a041-4fbb-9866-b0a1fee6c6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar 2025'])[1]/preceding::select[1]</value>
+      <webElementGuid>07aa9a6a-65b8-4d25-9dae-53f317bf632d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::select[1]</value>
+      <webElementGuid>5016c8ff-fcb5-4202-89cd-702c80f471cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/select</value>
+      <webElementGuid>c3f2c4b5-6915-4c81-95e6-ecec2a5ace69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '2045204420432042204120402039203820372036203520342033203220312030202920282027202620252024202320222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925' or . = '2045204420432042204120402039203820372036203520342033203220312030202920282027202620252024202320222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925')]</value>
+      <webElementGuid>7eedb583-9d63-4e15-884e-055cc3eeb582</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

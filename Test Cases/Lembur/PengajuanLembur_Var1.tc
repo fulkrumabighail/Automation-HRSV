@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Var 1 No input</description>
+   <name>PengajuanLembur_Var1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db128609-1641-49b9-bd92-b608c114e4f6</testCaseGuid>
+</TestCaseEntity>

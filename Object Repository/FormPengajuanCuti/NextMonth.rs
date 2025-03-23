@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NextMonth</name>
+   <tag></tag>
+   <elementGuidId>faa3f528-7f77-4e00-aca6-6277ad0ae091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.rdrNextPrevButton.rdrNextButton > i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div/div/div/form/div/div/div[2]/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4b2bc754-cedb-4d20-8b3e-6b71bb96f0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-4 card-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row form-group my-2 mx-2&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/form[@class=&quot;calendarWrap&quot;]/div[1]/div[@class=&quot;rdrCalendarWrapper rdrDateRangeWrapper calendarElement&quot;]/div[@class=&quot;rdrMonthAndYearWrapper&quot;]/button[@class=&quot;rdrNextPrevButton rdrNextButton&quot;]/i[1]</value>
+      <webElementGuid>6e9e0946-348f-4028-bf9f-06f558bbfa85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div/div[2]/div/div/div/form/div/div/div[2]/button[2]/i</value>
+      <webElementGuid>0af95435-9ac0-4928-b1a0-8465b1a24edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>6cb63b75-d9a7-408d-a3ac-a86d126493d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

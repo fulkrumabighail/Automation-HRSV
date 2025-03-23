@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TabelCuti</name>
+   <tag></tag>
+   <elementGuidId>b5a861c3-8304-47f7-9603-bb47838a9558</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mx-4 > div.card > div.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e1871eb-02ab-4f48-b1a5-e3207824eb9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>18de3d16-761f-4796-8eb3-6b607dbaafdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ActionTanggal CutiTotal HariJenis CutiKeteranganStatus2025/03/01 - 2025/03/3131Cuti TahunanTestingMenunggu Disetujui2025/03/01 - 2025/03/3131Cuti TahunanTestingMenunggu Disetujui2025/03/17 - 2025/03/171Cuti TahunanTest CutiMenunggu Disetujui2025/03/06 - 2025/03/1611Cuti TahunanLiburanMenunggu Disetujui2025/02/25 - 2025/02/251-Select-testMenunggu Disetujui2025/03/29 - 2025/04/1316Cuti TahunanIdul FitriMenunggu Disetujui2025/03/29 - 2025/04/1316Cuti TahunanIdul FitriMenunggu DisetujuiShowing 7 from 58«‹1234…›»</value>
+      <webElementGuid>8cd97a1b-6755-4b8d-a39d-ef8b5efc01c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>13058cd0-9184-4220-aab2-ea0e9edf4ed5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>dffd4b0e-1741-4ff7-9e40-12658714a729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan Cuti'])[1]/following::div[2]</value>
+      <webElementGuid>df352d82-ef8a-4c23-b4cf-8f973c504d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pengajuan Cuti'])[1]/following::div[4]</value>
+      <webElementGuid>2d110854-2ea4-4a1c-99e0-87aa9969087f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>dbaf814f-b5cb-4afc-add7-0b4966df72f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ActionTanggal CutiTotal HariJenis CutiKeteranganStatus2025/03/01 - 2025/03/3131Cuti TahunanTestingMenunggu Disetujui2025/03/01 - 2025/03/3131Cuti TahunanTestingMenunggu Disetujui2025/03/17 - 2025/03/171Cuti TahunanTest CutiMenunggu Disetujui2025/03/06 - 2025/03/1611Cuti TahunanLiburanMenunggu Disetujui2025/02/25 - 2025/02/251-Select-testMenunggu Disetujui2025/03/29 - 2025/04/1316Cuti TahunanIdul FitriMenunggu Disetujui2025/03/29 - 2025/04/1316Cuti TahunanIdul FitriMenunggu DisetujuiShowing 7 from 58«‹1234…›»' or . = 'ActionTanggal CutiTotal HariJenis CutiKeteranganStatus2025/03/01 - 2025/03/3131Cuti TahunanTestingMenunggu Disetujui2025/03/01 - 2025/03/3131Cuti TahunanTestingMenunggu Disetujui2025/03/17 - 2025/03/171Cuti TahunanTest CutiMenunggu Disetujui2025/03/06 - 2025/03/1611Cuti TahunanLiburanMenunggu Disetujui2025/02/25 - 2025/02/251-Select-testMenunggu Disetujui2025/03/29 - 2025/04/1316Cuti TahunanIdul FitriMenunggu Disetujui2025/03/29 - 2025/04/1316Cuti TahunanIdul FitriMenunggu DisetujuiShowing 7 from 58«‹1234…›»')]</value>
+      <webElementGuid>0498ce2c-0b74-4e77-90db-b0fef4b56379</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
