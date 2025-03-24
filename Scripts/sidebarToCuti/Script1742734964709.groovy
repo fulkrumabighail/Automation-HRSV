@@ -17,11 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Sidebar/span_SideBarToggle'))
 
-WebUI.click(findTestObject('Sidebar/a_Cuti dan Lembur'))
+TestObject sidebarToggle = findTestObject('Sidebar/span_SideBarToggle')
+TestObject cutiDanLembur = findTestObject('Sidebar/a_Cuti dan Lembur')
+
+
+if (!WebUI.verifyElementVisible(cutiDanLembur, FailureHandling.OPTIONAL)) {
+    WebUI.click(sidebarToggle)
+    println("Sidebar toggled to make 'Cuti dan Lembur' visible.")
+} else {
+    println("'Cuti dan Lembur' is already visible, skipping sidebar toggle.")
+}
+
+
+WebUI.click(cutiDanLembur)
 
 WebUI.waitForElementVisible(findTestObject('Sidebar/a_Pengajuan Cuti'), 3)
 
 WebUI.doubleClick(findTestObject('Sidebar/a_Pengajuan Cuti'))
-

@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>ff1fb77e-8f74-4fa3-aa3c-5ab157cd2fbf</dataFileGUID>
-   <dataSourceUrl>C:\Users\ilham\Katalon Studio\Automation HRSV\Data Files\HRSV Data.xlsx</dataSourceUrl>
+   <dataSourceUrl>HRSV Data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>

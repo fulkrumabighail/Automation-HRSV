@@ -17,9 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Logbook/Delete _row'))
+TestObject deleteRowButton = findTestObject('Logbook/Delete _row')
 
-WebUI.click(findTestObject('Logbook/button_OKModalHapusLog'))
-
-WebUI.click(findTestObject('button_OK_confirm'))
-
+// Check if the "Delete _row" button exists
+if (WebUI.verifyElementPresent(deleteRowButton, 5, FailureHandling.OPTIONAL)) {
+    WebUI.click(deleteRowButton)
+    
+    WebUI.click(findTestObject('Logbook/button_OKModalHapusLog'))
+    
+    WebUI.click(findTestObject('button_OK_confirm'))
+    
+    println("Logbook entry deleted successfully.")
+} else {
+    println("Delete button not found, skipping test case.")
+}

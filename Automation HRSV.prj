@@ -9,9 +9,9 @@
    <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
-   <modifiedVersion>10.1.1</modifiedVersion>
+   <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\ilham\Katalon Studio\Automation HRSV\Automation HRSV.prj</projectFileLocation>
+   <projectFileLocation>/Users/sheirubian/Desktop/Development/Automation-HRSV/Automation HRSV.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

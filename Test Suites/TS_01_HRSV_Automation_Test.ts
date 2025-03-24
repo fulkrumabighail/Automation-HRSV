@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Login</name>
+   <name>TS_01_HRSV_Automation_Test</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -23,6 +23,15 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/SignIn/SignIn_Var1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f54c5dd5-e073-4d68-969a-853674e82453</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/User</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -73,13 +82,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>e731c885-dcfc-4ecb-9596-7191982cfcad</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/LogBook/HapusLogBook_Normal</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>21a3d8c2-325a-4cea-b7d8-de0c418f4e34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -94,10 +96,26 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>e731c885-dcfc-4ecb-9596-7191982cfcad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LogBook/HapusLogBook_Normal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>0d528d1d-e112-4382-9c6c-530a9477e076</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/sidebarToCuti</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8fee88d9-8ee5-43fc-8015-9619833b81fe</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/User</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

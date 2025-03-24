@@ -25,7 +25,12 @@ WebUI.doubleClick(findTestObject('FormPengajuanCuti/span_Tanggal'))
 
 WebUI.click(findTestObject('Page_HRSV Dashboard/NavBar'))
 
-WebUI.selectOptionByIndex(findTestObject('FormPengajuanCuti/select_JenisCuti'), 1)
+Random rand = new Random()
+int randomIndex = rand.nextInt(2) + 1
+
+WebUI.selectOptionByIndex(findTestObject('FormPengajuanCuti/select_JenisCuti'), randomIndex)
+
+println("selected Jenis Cuti index: " + randomIndex)
 
 WebUI.selectOptionByIndex(findTestObject('FormPengajuanCuti/select_NamPIC'), 1, FailureHandling.STOP_ON_FAILURE)
 
